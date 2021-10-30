@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bottom-right {
+  position: fixed;
+  right: 40px;
+  bottom: 30px;
+}
